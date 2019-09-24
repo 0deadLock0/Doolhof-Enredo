@@ -1,10 +1,13 @@
 # Doolhof-Enredo
 A 2D Interactive Multiplayer Maze game made using Arduino and Processing
 
+*Arduino is used to supply inputs from the controller
+
 Contributors:
     Abhimanyu Gupta
     Rohit Roy
     Abhish Panwar
+    
 Software USed:
     Procsessing
     Arduino
