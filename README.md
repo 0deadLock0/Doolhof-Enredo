@@ -21,5 +21,8 @@ References:
     3) Capacitive Touch Sensor: https://playground.arduino.cc/Main/CapacitiveSensor/
     4) Gyroscope Sensor: https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/
 
+Purpose:
+    MidSemester Project for Protyping Interactive System(DESxxx), Monsoon Semseter 2020, at IIIT Delhi
+
 Demo:
     https://youtu.be/g481971uaFo
